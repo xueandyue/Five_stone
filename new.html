@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<script type="text/javascript" src="./js/jquery-2.1.1.js"></script>
+	<script type="text/javascript">
+		
+
+		$(document).ready(function() {
+
+
+			$('.yaoqingduizhan').click(function(event) {
+				var duifang_id=$(this).parent('div').find('.duifang_id').text();
+				alert(duifang_id);
+			});
+
+
+			var fun=function()
+			{
+
+				str='<div class="duifang_id" style="display: none;">39</div>	<button class="yaoqingduizhan">邀请对战</button>';
+				for (var i = 0; i < 3; i++) {
+					str+=str;
+					
+				}
+				
+
+				$('#list').html(str);
+
+			};
+
+
+
+			var t1 = window.setInterval(fun,5000);
+
+
+
+		});
+	</script>
+</head>
+<body>
+
+<div id="list">
+ <div class="duifang_id" style="display: none;">39</div>
+<button class="yaoqingduizhan">邀请对战</button>
+</div>
+
+
+
+	
+</body>
+</html>
