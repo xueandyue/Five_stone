@@ -8,6 +8,8 @@
 4、设计思路解释 "参考终稿.doc"文档
 
 
+支付宝打赏
+
 
 ![支付宝打赏，如果图片不显示,下载源码后，在img目录路面](https://github.com/xueandyue/Five_stone/blob/master/img/WechatIMG5.jpeg)
 
