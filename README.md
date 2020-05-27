@@ -6,3 +6,7 @@
 3、新建test数据库，导入test.sql
 
 4、设计思路解释 "参考终稿.doc"文档
+
+
+
+![支付宝打赏](https://github.com/xueandyue/Five_stone/blob/master/img/4.jpg)
