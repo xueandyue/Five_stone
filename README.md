@@ -9,4 +9,7 @@
 
 
 
-![支付宝打赏](https://github.com/xueandyue/Five_stone/blob/master/img/4.jpg)
+![支付宝打赏，如果图片不显示,下载源码后，在img目录路面](https://github.com/xueandyue/Five_stone/blob/master/img/WechatIMG5.jpeg)
+
+
+
